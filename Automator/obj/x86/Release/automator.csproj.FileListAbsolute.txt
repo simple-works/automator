@@ -1,0 +1,5 @@
+C:\Users\Abdelhakim\Desktop\automator\automator\bin\Release\automator.exe
+C:\Users\Abdelhakim\Desktop\automator\automator\bin\Release\automator.pdb
+C:\Users\Abdelhakim\Desktop\automator\automator\obj\x86\Release\automator.exe
+C:\Users\Abdelhakim\Desktop\automator\automator\obj\x86\Release\automator.pdb
+C:\Users\Abdelhakim\Desktop\automator\automator\obj\x86\Release\Automator.csprojResolveAssemblyReference.cache
